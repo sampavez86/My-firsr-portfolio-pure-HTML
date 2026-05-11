@@ -1,0 +1,29 @@
+
+h1 {
+  color: darkblue;
+  font-size: 40px;
+}
+
+h2 {
+  color: teal;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+ul {
+  background-color: lightgray;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+hr {
+  border: 2px solid black;
+}
+body {
+    font-family: "Supermercado One", sans-serif;
+}
